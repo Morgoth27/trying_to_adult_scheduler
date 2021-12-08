@@ -7,3 +7,4 @@ To log each item within a time slot, simply type the text into the empty field a
 
 Once your day has concluded, there is a button to clear your entries so you may start anew!
 
+![Unable to insert into readme, use link to access screenshot.](./Webpage_Screenshot.png)
